@@ -6,6 +6,7 @@ Load: Mega 2560 Arduino with RC255 RFID and Buzzer.
 
 
 |RC522 RFID Module and Buzzer Connection Diagram|
+| ------------- | ------------- |
 |VCC|N/A|
 |GND|GND|
 |SDA|53|
@@ -16,6 +17,7 @@ Load: Mega 2560 Arduino with RC255 RFID and Buzzer.
 |IRQ|N/A (optional)|
 
 |Buzzer Connection|
+| ------------- | ------------- |
 |Buzzer Pin|Arduino Pin|Resistor (Ω)|
 |VCC|5V|N/A|
 |GND|GND|N/A|
