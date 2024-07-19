@@ -20,10 +20,13 @@ RC522 RFID Module and Buzzer Connection Diagram
 Buzzer Connection
 |Buzzer Pin|Arduino Pin|Resistor (Ω)|
 | ------------- | ------------- | ------------- |
-|VCC|5V|N/A|
+|VCC|5V (optional)|N/A|
 |GND|GND|N/A|
 |I/O|8|N/A|
-|Cathode (longest pin)|GND|N/A|
+
+|RGB LED Pin|Arduino Pin|Resistor (Ω)|
+| ------------- | ------------- | ------------- |
+|GND|GND|N/A|
 |Red pin|9|220Ω|
 |Green pin|10|220Ω|
 |Blue pin|11|220Ω|
