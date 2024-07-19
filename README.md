@@ -1,1 +1,1 @@
-# AC-to-DC-Power-Supply-with-Load
+# EFB1031 Electrical Circuit Analysis Lab
