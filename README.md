@@ -5,7 +5,8 @@ DC power supply with a fixed 15 V output using a full-wave rectifier (center-tap
 Load: Mega 2560 Arduino with RC255 RFID and Buzzer.
 
 
-|RC522 RFID Module and Buzzer Connection Diagram|
+RC522 RFID Module and Buzzer Connection Diagram
+|RC522 RFID Pin|Arduino Pin| 
 | ------------- | ------------- |
 |VCC|N/A|
 |GND|GND|
@@ -16,9 +17,9 @@ Load: Mega 2560 Arduino with RC255 RFID and Buzzer.
 |RST|5|
 |IRQ|N/A (optional)|
 
-|Buzzer Connection|
-| ------------- | ------------- |
+Buzzer Connection
 |Buzzer Pin|Arduino Pin|Resistor (Ω)|
+| ------------- | ------------- | ------------- |
 |VCC|5V|N/A|
 |GND|GND|N/A|
 |I/O|8|N/A|
